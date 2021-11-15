@@ -1,0 +1,4 @@
+0-Base de python
+https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python?archived-source=235344
+
+1-Traitement statistique des données
