@@ -15,3 +15,5 @@ La bibliographie a été rassemblée depuis diverses sources internet :
 Ces documents sont rassemblés ici par simplicité pour les étudiant.e.s. Ils sont utilisés dans un objectif pédagogique. Leur propriété appartient à leurs auteurs respectifs et les conditions d'utilisation sont définis dans leurs licences (cf le site d'origine).
 
 Tous droits réservés pour les notebooks et fichiers complémentaires dans les dossiers 0-Bases et 1-Avancés.
+
+Accessible en ligne : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/axgmz/PythonTP_1ADENS/HEAD)
