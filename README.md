@@ -3,9 +3,10 @@ TP de programmation en Python dans le cadre du cours d'Outils Mathématiques et 
 
 Le sujet de Bases a été écrit par Axel Gomez [@axgmz](https://github.com/axgmz).
 Le sujet Avancé a été écrit par Jean-François Olivieri [@jfolivie](https://github.com/jfolivie).
+Les améliorations au cours du temps sont dues aux auteurs originaux et à Miguel de la Puente [@MdelaPuente](https://github.com/MdelaPuente).
 
-| [<img src="https://github.com/axgmz.png?size=60" width="60"><br><sub>@axgmz</sub>](https://github.com/axgmz) | [<img src="https://github.com/jfolivie.png?size=60" width="60"><br><sub>@jfolivie</sub>](https://github.com/jfolivie) |
-| :---------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/axgmz.png?size=80" width="80"><br><sub>@axgmz</sub>](https://github.com/axgmz) | [<img src="https://github.com/jfolivie.png?size=80" width="80"><br><sub>@jfolivie</sub>](https://github.com/jfolivie) | [<img src="https://github.com/MdelaPuente.png?size=80" width="80"><br><sub>@MdelaPuente</sub>](https://github.com/MdelaPuente) |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: |
 
 La bibliographie a été rassemblée depuis diverses sources internet :
 - 0&1-Cheatsheet_2018.pdf : http://perso.utinam.cnrs.fr/~ballenegger/Docs/Python_Cheatsheet_2018.pdf
